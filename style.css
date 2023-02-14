@@ -1,0 +1,19 @@
+
+
+H1 {
+    color: #000080;
+    font-size: 200%;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+  P {
+    padding-left: 20px;
+  }
+
+  .logo {
+    width: 25%;
+    padding: 20px;
+    height: 50%;
+  }
+
+
